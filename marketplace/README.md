@@ -1,3 +1,7 @@
 # Final Task 
 
-Hosted at http://lizodus.o-tech.com.ng/
+Hosted at
+
+https://lizodusmarketplace.000webhostapp.com/
+
+http://lizodus.o-tech.com.ng/
