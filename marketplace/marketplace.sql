@@ -42,7 +42,7 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `name`, `price`, `owner`, `category`, `image`, `created_at`) VALUES
-(6, 'Gold', 3333, 'lizodus@gmail.com', 'shoes', 'fill(white)/product/51/099843/1.jpg?6702', '2021-07-17 23:44:41');
+(6, 'Shea Hair Essen', 35, 'lizodus@gmail.com', 'Hair', '3.jpg, '2021-07-17 23:44:41');
 
 -- --------------------------------------------------------
 
