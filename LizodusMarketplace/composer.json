@@ -1,0 +1,17 @@
+function isJson($string) {
+   json_decode($string);
+   return json_last_error() === JSON_ERROR_NONE;
+}
+
+json_decode(
+    string $json,
+    bool|null $associative = null,
+    int $depth = 512,
+    int $flags = 0
+): mixed
+
+json_encode(mixed $value, int $flags = 0, int $depth = 512): string|false
+
+json_last_error_msg(): string
+
+json_last_error(): int
