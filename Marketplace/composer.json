@@ -1,0 +1,8 @@
+{
+    "name": "Lizodus Marketplace-app",
+    "description": "Marketplace, built in PHP",
+    "license": "proprietary",
+    "require": {
+        "csanquer/pdo-service-provider": "~1.1dev"
+    }
+}
